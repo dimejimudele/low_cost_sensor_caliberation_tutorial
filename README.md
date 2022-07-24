@@ -10,4 +10,5 @@ Follow the lesson in the order of the naming of the notebooks, i.e `LESSON_1` co
 
 This tutorial meterial has been develop based on methods and data applied in the study by [Ellen M. Considine](https://www.sciencedirect.com/science/article/pii/S0269749120365222).
 
-
+# Navigating this repository
+run `pip install /requirements.txt`
