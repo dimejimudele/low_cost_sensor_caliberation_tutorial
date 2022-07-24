@@ -3,7 +3,7 @@
 A data science tutorial presented by Oladimeji Mudele at [FBK Web Valley 2022](https://webvalley.fbk.eu/)
 
 ## Navigating this repository
-`/data/`: contains the data applied in `LESSON_1_data_preparation.ipynb` notebook.
+`/data/`: contains the data applied in `LESSON_1_data_preparation.ipynb` notebook. <br>
 `/answers/`: contains a sample response to the exercise given in `LESSON_3_Modeling.ipynb`notebook.
 
 Follow the lesson in the order of the naming of the notebooks, i.e `LESSON_1` comes before `LESSON_2`.
