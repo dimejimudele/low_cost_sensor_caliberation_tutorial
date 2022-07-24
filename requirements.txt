@@ -3,6 +3,6 @@ numpy
 pandas
 geopandas
 seaborn
-contextily
+contextily==1.2.0
 scikit-learn
 tqdm
